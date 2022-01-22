@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2 align="center">안녕하세요✨ Hi🖐</h2>
+<p align="center">
+  저는 Frontend developer입니다🙇‍ </br>
+  </br>
+  제 Main Skills는 HTML, CSS, Javascript, React 입니다. </br>
+  </br>
+  아직 많이 부족해 공부중에 있는 developer입니다. </br>
+  </br>
+  꾸준함을 가지고 계속 발전해가는 개발자가 되고 싶습니다.👩‍💻
+</p>
 
-<!--
-**danbe80/danbe80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Tech Stack💻</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-html-%23E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-css-%231572B6?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=eee">
+  <img src="https://img.shields.io/badge/-React-1687A7?style=flat-square&logo=React">
+  <img src="https://img.shields.io/badge/-jQuery-B8B5FF?style=flat-square&logo=jQuery">
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/-Python-BFCBA8?style=flat-square&logo=Python">
+  <img src="https://img.shields.io/badge/-Node.js-%23F1CA89?style=flat-square&logo=Node.js" >
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/-Notion-%23000000?style=flat-square&logo=Notion">
+  <img src="https://img.shields.io/badge/-GitHub-DA7F8F?style=flat-square&logo=gitHub">
+  <img src="https://img.shields.io/badge/-Git-04009A?style=flat-square&logo=git">
+  <img src="https://img.shields.io/badge/-Slack-%234A154B?style=flat-square&logo=Slack">
+</p>
