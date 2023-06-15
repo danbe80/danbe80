@@ -23,7 +23,7 @@
   <br>
   <img src="https://img.shields.io/badge/-Python-BFCBA8?style=flat-square&logo=Python">
   <img src="https://img.shields.io/badge/-Node.js-%23F1CA89?style=flat-square&logo=Node.js" >
- <img src="https://img.shields.io/badge/-Java-%654ea3?style=flat-square&logo=Java" >
+ <img src="https://img.shields.io/badge/-Java-654ea3?style=flat-square&logo=Java" >
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Notion-%23000000?style=flat-square&logo=Notion">
