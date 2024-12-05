@@ -2,9 +2,9 @@
 <p align="center">
   저는 Frontend developer입니다🙇‍ </br>
   </br>
-  제 Main Skills는 HTML, CSS, Javascript, TypeScript, React, Spring boot 입니다. </br>
+  제 Main Skills는 HTML, CSS, Javascript, TypeScript, React, Vue, Spring boot 입니다. </br>
   </br>
-  아직 많이 부족해 공부중에 있는 developer입니다. </br>
+  노력하며 진행중인 web Frontend developer입니다. </br>
   </br>
   꾸준함을 가지고 계속 발전해가는 개발자가 되고 싶습니다.👩‍💻
 </p>
