@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/-jQuery-B8B5FF?style=flat-square&logo=jQuery">
   <br>
   <br>
-  <img src="https://img.shields.io/badge/-Python-BFCBA8?style=flat-square&logo=Python">
   <img src="https://img.shields.io/badge/-Node.js-%23F1CA89?style=flat-square&logo=Node.js" >
   <img src="https://img.shields.io/badge/-springboot-FA6831?style=flat-square&logo=springboot" >
  <img src="https://img.shields.io/badge/-Java-654ea3?style=flat-square&logo=Java" >
